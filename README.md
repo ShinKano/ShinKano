@@ -13,9 +13,9 @@ Qiita： https://qiita.com/ShinKano/
 
 ## スキル・学習中に作ったもの
 * HTML/CSSを使ったマークアップ
-	* 製作物の例 => http://www.storyshare.jp/working-holiday/
+	* 製作物の例 http://www.storyshare.jp/working-holiday/
 * Gatsby.js＋NetlyfyCMSを使用したWebサイト製作
-	* 製作物の一例 => https://www.ss-guesthouse.com/
+	* 製作物の例 https://www.ss-guesthouse.com/
 * React＋Firebaseでツイッターのようなアプリ制作 （ログイン・ログアウト・投稿・削除・イイね）
 * Wordpressで自作テーマ作成
 * Pythonでスクレイピング・ファイル加工
